@@ -1,2 +1,7 @@
 # WinProVirtualKey
 Cracked Windows Activation Program
+
+Want to explore Windows in Pro version or just experiment with it? Try Windows EE Pro for free with this script!
+Download it for free!
+
+<b>W A R N I N G :   THIS PROGRAM IS FOR FULL VIRTUAL MACHINE WINDOWS LICENSE ONLY - YOU ARE RESPONSIBLE FOR VIOLATIONS OF MICROSOFT AND AFFILIATES' PRIVACY POLICY AND TERMS OF CONDUCT - DO NOT CONTINUE IF YOU ARE NOT SURE OF THE LEGALITY OF YOUR ACTIVITIES! I'M NOT RESPONSIBLE FOR YOUR ACTIONS!</b>
