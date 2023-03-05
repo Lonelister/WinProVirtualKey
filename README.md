@@ -31,12 +31,12 @@ Activation should take 3-5 minutes!
 1. Run WinProVirtualKey(VER).exe with administrator priviliges!
 2. KMS (Key Management Service) may malfunction, it can be fixed, and to solve this problem:
     - Restart the system
-    - Renew KMS and its services
+    - Renew *KMS* and its services
     - Disconnect from your organization's network (if your device is on one)
     - Make sure that no Windows license has been activated while executing the script
-    - Check in the console that DISM (Deployment Image and Management Tool) has been started correctly and is executing commands (check the picture below) that are important when performing functions from KMS
-3. Disable your antivirus for the script to work properly (this script is considered harmful by antiviruses, but it really isn't)
-4. USE THIS SCRIPT AS A WINDOWS ACTIVATION TOOL ONLY AND SOLELY AT YOUR OWN RISK AND ONLY ON A VIRTUAL MACHINE
+    - Check in the console that _DISM_ (_Deployment Image and Management Tool_) has been started correctly and is executing commands (check the picture below) that are important when performing functions from _KMS_
+3. Disable your antivirus for the script to work properly (this script is considered harmful by antiviruses, but it really isn't) or head to "How to enable WinProVirtualKey" as safe?"
+**4. USE THIS SCRIPT AS A WINDOWS ACTIVATION TOOL ONLY AND SOLELY AT YOUR OWN RISK AND ONLY ON A VIRTUAL MACHINE**
 
 ### If <b>Key Management Service</b> is not working properly:
 
@@ -47,6 +47,33 @@ Activation should take 3-5 minutes!
 3. Run `WinProVirtualKey(VER).exe` (<b>WITH ADMINISTRATOR PRIVILIGES!</b>)
 
 
+## How to enable `WinProVirtualKey` as safe?
+
+I'll show you how to do it using *Windows Defender* as an example:
+
+1. Run `Windows Security`
+
+![image](https://user-images.githubusercontent.com/83708878/222959918-aeae8a49-ae4d-482b-aa91-df33518eadda.png)
+
+2. Go to `Virus and threat protection` section
+
+![image](https://user-images.githubusercontent.com/83708878/222959968-887d93c9-6eb6-4c60-bba9-0af700ace230.png)
+
+3. Click on the latest threat (usually named `Trojan:Win32/Wacatac.H!ml`)
+
+![image](https://user-images.githubusercontent.com/83708878/222960005-0c0b7bc9-5c7b-42e3-a2cf-3b52996b3b3b.png)
+
+4. Select `Allow on device` and then click `Start actions`
+
+![image](https://user-images.githubusercontent.com/83708878/222960057-c8aa92cb-1881-4bd5-b7c5-d7e1341519df.png)
+
+> Note: Most often, after allowing, you need to disable `Virus Protection` and re-enable it after `WinProVirtualKey` completes the script
+
+5. Redownload (if it has been removed) and click `Keep` (or `Keep anyway` in the next window)
+
+![image](https://user-images.githubusercontent.com/83708878/222960108-634658a0-a070-4f3b-814a-ef9934a69fdd.png)
+
+<br></br>
 
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/83708878/222952393-258a3b62-5c96-4950-baf2-a2d0a46c6433.png)
@@ -67,7 +94,7 @@ Activation should take 3-5 minutes!
 
 ![image](https://user-images.githubusercontent.com/83708878/222952767-f4e303ee-cb69-4318-bf76-25a60e12d079.png)
 
-<b>You've finally activated your Windows Pro!</b>
+**You've finally activated your Windows Pro!**
 
 
 
