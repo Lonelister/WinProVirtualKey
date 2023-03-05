@@ -6,6 +6,27 @@
 Activation should take 3-5 minutes!
 <b>WORKS ONLY ON WINDOWS 10 AND WINDOWS 11</b>
 
+
+# Instructions:
+
+1. Run `WinProVirtualKey(VER).exe`
+
+> Note: If when running `WinProVirtualKey(VER).exe`, the `User Control` window is not displayed, terminate the process and run `WinProVirtualKey(VER).exe` with <b>`Right Click` -> `Run as administrator`</b>
+
+2. Wait for `WinProVirtualKey(VER).exe` to finish the whole script (see fifth screenshot)
+
+3. After finishing the script, run `OptionalFeatures.exe` and check the `Windows Identity Fundation 3.5` option for the correct operation of the system if an error occurred during the execution of the script that no such license (or version) was found
+
+> Note: Don't worry, your system will be activated, but it's still worth checking this option!
+
+4. Restart your computer <i>OR</i> `Control+Shift+Enter` -> `shutdown -r`
+
+5. Check that everything is working properly
+
+> Note: If the system still hasn't been activated, download and run `kms-repair.exe` or follow the instructions below "If <b>Key Management Service</b> is not working properly"
+
+6. You've activated your Windows!
+
 # Notes:
 1. Run WinProVirtualKey(VER).exe with administrator priviliges!
 2. KMS (Key Management Service) may malfunction, it can be fixed, and to solve this problem:
