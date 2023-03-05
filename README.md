@@ -17,6 +17,16 @@ Activation should take 3-5 minutes!
 3. Disable your antivirus for the script to work properly (this script is considered harmful by antiviruses, but it really isn't)
 4. USE THIS SCRIPT AS A WINDOWS ACTIVATION TOOL ONLY AND SOLELY AT YOUR OWN RISK AND ONLY ON A VIRTUAL MACHINE
 
+### If <b>Key Management Service</b> is not working properly:
+
+<i>(You can also download kms-repair.exe from this repository to do this faster)</i>
+
+1. Hit `Control+Shift+Enter` to enter to the CMD
+2. Type these commands: `slmgr.vbs /upk` -> `slmgr.vbs /cpky` -> `slmgr.vbs /ckms` -> `slmgr /skms kms8.msguides.com` -> `slmgr /ato` -> <i>Reboot</i>
+3. Run `WinProVirtualKey(VER).exe` (<b>WITH ADMINISTRATOR PRIVILIGES!</b>)
+
+
+
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/83708878/222952393-258a3b62-5c96-4950-baf2-a2d0a46c6433.png)
 
@@ -42,4 +52,4 @@ Activation should take 3-5 minutes!
 
 
 
-## <b>W A R N I N G :   THIS PROGRAM IS FOR FULL VIRTUAL MACHINE WINDOWS LICENSE ONLY - YOU ARE RESPONSIBLE FOR VIOLATIONS OF MICROSOFT AND AFFILIATES' PRIVACY POLICY AND TERMS OF CONDUCT - DO NOT CONTINUE IF YOU ARE NOT SURE OF THE LEGALITY OF YOUR ACTIVITIES! I'M NOT RESPONSIBLE FOR YOUR ACTIONS!</b>
+### <b>W A R N I N G :   THIS PROGRAM IS FOR FULL VIRTUAL MACHINE WINDOWS LICENSE ONLY - YOU ARE RESPONSIBLE FOR VIOLATIONS OF MICROSOFT AND AFFILIATES' PRIVACY POLICY AND TERMS OF CONDUCT - DO NOT CONTINUE IF YOU ARE NOT SURE OF THE LEGALITY OF YOUR ACTIVITIES! I'M NOT RESPONSIBLE FOR YOUR ACTIONS!</b>
