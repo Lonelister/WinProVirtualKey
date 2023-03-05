@@ -19,18 +19,23 @@ Activation should take 3-5 minutes!
 
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/83708878/222952393-258a3b62-5c96-4950-baf2-a2d0a46c6433.png)
+
 <i>Running the script.</i>
 
 ![image](https://user-images.githubusercontent.com/83708878/222952436-9ad9d1bb-0d27-452f-8ddf-7c0882c8ab52.png)
+
 <b>NOTE: "Professional" is needed in this section, if the license list shows all versions without "Professional", try to renew KMS</b>
 
 ![image](https://user-images.githubusercontent.com/83708878/222952525-5c9b6573-0082-4163-98fb-ec575988b0ca.png)
+
 <i>Make sure you have received this message, otherwise try again.</i>
 
 ![image](https://user-images.githubusercontent.com/83708878/222952595-e143cdbb-0b2b-47a2-8e75-502fa6159bc8.png)
-<i>Make sure KMS is redirected to <sub>kms8.msguides.com<sub>.</i>
+
+<i>Make sure KMS is redirected to `kms8.msguides.com`.</i>
 
 ![image](https://user-images.githubusercontent.com/83708878/222952767-f4e303ee-cb69-4318-bf76-25a60e12d079.png)
+
 <b>You've finally activated your Windows Pro!</b>
 
 
