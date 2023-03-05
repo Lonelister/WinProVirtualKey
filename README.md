@@ -19,7 +19,7 @@ Activation should take 3-5 minutes!
 
 ### If <b>Key Management Service</b> is not working properly:
 
-<i>(You can also download kms-repair.exe from this repository to do this faster)</i>
+<i>(You can also download kms-repair.exe from this repository to do this faster - of course with administrator priviliges!)</i>
 
 1. Hit `Control+Shift+Enter` to enter to the CMD
 2. Type these commands: `slmgr.vbs /upk` -> `slmgr.vbs /cpky` -> `slmgr.vbs /ckms` -> `slmgr /skms kms8.msguides.com` -> `slmgr /ato` -> <i>Reboot</i>
